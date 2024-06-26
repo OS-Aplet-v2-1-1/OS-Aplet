@@ -1,0 +1,4 @@
+git větev -m main <  POBOČKA> 
+  původ git fetch 
+  git větev -u  původ/<POBOČKA   > <POBOČKA> 
+  git remote set-head origin -a 
